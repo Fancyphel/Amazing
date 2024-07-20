@@ -1,0 +1,12 @@
+table{width: 0%;height: 800px;}
+body{background-color: brown;}
+table, th, td{margin: auto;border: 0px solid black;border-collapse: collapse;}
+#R{background-color: aqua;height: 15%;}
+#A{background-color: chartreuse;width: 30%;}
+#N{background-color: aliceblue;}
+#I{background-color: chocolate;height: 15%;}
+a:link{background-color: darkgreen;}
+a:hover{color: crimson;}
+a:link{font-family: 'Courier New', Courier, monospace;
+font-size: larger;}
+#Nun{text-align: center;text-decoration: dotted;}
